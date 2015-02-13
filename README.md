@@ -22,3 +22,15 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 Code is licensed under the Apache 2.0 license.
 
 
+CMPUT 410 Winter 2015 Assignment Submission
+===========================================
+
+### Contributors:
+
+* Jessica Surya
+* Paul Nhan
+
+Resources
+=========
+
+Paper background (paper.png) is from [becuo](http://becuo.com/seamless-backgrounds-white)
