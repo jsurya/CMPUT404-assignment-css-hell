@@ -219,6 +219,7 @@ P.finis { text-align: center ;
   margin-left: 0% ;
   margin-right: 0% 
 }
+
 p {
     margin-top:.2em;
     text-align:justify;
@@ -277,19 +278,19 @@ hr {
     color:black;
 }
 
- hr.dbl {
+hr.dbl {
     width: 90%;
     margin:.5% auto .5% auto;
     border:4px double gray;
 }
 
- hr.full {
+hr.full {
     width: 50%;
     margin:5% auto 5% auto;
     border:4px double gray;
 }
 
- table {
+table {
     margin-top:5%;
     margin-bottom:5%;
     margin-left:auto;
@@ -357,7 +358,7 @@ img {
     max-width:50%;
 }
 
- sub {
+sub {
     font-size:70%;
     vertical-align:bottom;
 }
