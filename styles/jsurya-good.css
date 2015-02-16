@@ -69,9 +69,7 @@ body {
 	background-color: white;
 	font-family: "roboto";
 	font-size: large;
-
-	margin-top: -25pt;
-	margin-right: -20pt;
+	padding-top: 80pt;
 }
 	
 .menu  li {
@@ -84,7 +82,8 @@ body {
 	width: 70%;
 	height: 100%;
 	float: left;
-	margin-left: 30pt;
+	margin-left: 50pt;
+	margin-top: -100pt;
 }
 
 .inner-list {
@@ -110,12 +109,12 @@ h1 {
 	font-size: 500%;
 	float: left;
 	margin-bottom: 30pt;
-	clear:right;
 }
 
 .about {
 	float:left;
 	clear:left;
+	font-size: 120%
 }	
 
 .container {
